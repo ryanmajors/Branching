@@ -14,6 +14,7 @@ them for commit
 * `git status` - Display current status of local working directory/repository
 * `git log` - List commit history
 * `git log -- oneline` - List commit history, compact format
+* `git config -l` - List local Git configuration settings
 
 ### Branching Commands
 * `git branch` - List local git branches
