@@ -7,3 +7,8 @@
 them for commit
 * `git commit -m "Message"` - commit changes to local repo with commit message
 "Message"
+
+### Information Commands
+* `git status` - display current status of local working directory/repository
+* `git log` - list commit history
+* `git log -- oneline` - list commit history, compact format
